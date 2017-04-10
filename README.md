@@ -1,30 +1,28 @@
 ---
 what: Computing Fundamentals for Human(s|ists)
 where: University of Victoria, BC
-when: Summer 2016
+when: June 5-9, 2017
 ---
 
 [John Simpson](https://twitter.com/symulation)  
-[Dennis Yi Tenen](https://twitter.com/dennistenen)
+[Alicia Cappello](https://twitter.com/aliciavc99)
+
+-_-_-_-_-_ ALL CONTENT IS CURRENTLY UNDER REVISION _-_-_-_-_-
 
 ## Class Description
 
-This course is intended for humanities-based researchers with no programming
-background whatsoever who would like to understand how programs work behind
-the scenes by writing some simple but useful programs of their own. Over the
-week the emphasis will be on understanding how computer programmers think so
-that participants will be able to at least participate in high-level
-conceptual discussions in the future with more confidence. These general
+This course is intended for humanities-based researchers who do not have a programming
+background, but would like to understand how programs work "behind
+the scenes." Over the
+week, the emphasis will be on understanding how computer programmers think so
+that participants will be able to participate in high-level
+conceptual discussions with more confidence. These general
 concepts will be reinforced and illustrated with hands-on development of
-simple programs that can be used to help with text-based research and analysis
-right away.
+simple programs that can be used to assist with text-based research and analysis.
 
-The programming language used for most of the course will be Python because of
-its gentle syntax and powerful extensions. Using the command-line interface
-and regular expressions will also be emphasized. We will also spend some time
-taking glimpses at what is happening in the other DHSI courses to understand
-how reading and writing programming code goes well beyond what we touch on in
-this class.
+The programming language used for most of the course will be Python. Python has an easy-to-learn and 
+gentle syntax, and powerful extensions. Use of the command-line interface
+and regular expressions will also be demonstrated and emphasized. 
 
 ## Day 1: Shell (4.5hr)
 
@@ -34,7 +32,7 @@ comfortable with the conversational, call and response style of programming.
 
 - 1.1 Welcome
   - 1.1.1 Introductions, resources
-  - [1.1.2](https://github.com/xpmethod-workshops/dhsi-coding-fundamentals/blob/master/book-chapter/main.md#1-critical-computing-principles) Course Philosophy
+  - [1.1.2](book-chapter/main.md#1-critical-computing-principles) Course Philosophy
   - [1.1.3](https://github.com/xpmethod-workshops/dhsi-coding-fundamentals/blob/master/book-chapter/main.md#2-digital-humanities-core) DH Core
   - 1.1.4 Goals, Schedule
   - [1.1.5](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/000-cli.md) Why command
